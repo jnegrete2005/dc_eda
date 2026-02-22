@@ -14,5 +14,6 @@ dependencies = [
     "nbdime>=4.0.4",
     "pandas>=3.0.1",
     "pymysql>=1.1.2",
+    "scikit-learn>=1.8.0",
     "sqlalchemy>=2.0.46",
 ]
